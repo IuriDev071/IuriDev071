@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Eu sou o Iuri Matiello👋🏼, e atualmente estou na área da programação e tecnologia!!!
 
-<!--
-**IuriDev071/IuriDev071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📁 Trabalho atualmente como Desenvolvedor FullStack
 
-Here are some ideas to get you started:
+##### 💻 Curto muito desenvolver em NodeJS e JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Pretendo ser Desenvolvedor Node/React
+
+#### 📱 Atualmente estudando ReactJS e React Native
+
+<div align="center">
+  <a href="https://github.com/IuriDev071">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuridev071&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridev071&layout=compact&langs_count=7&theme=dark"/>
+</div>
