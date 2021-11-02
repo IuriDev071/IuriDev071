@@ -2,7 +2,7 @@
 
 #### 📁 Trabalho atualmente como Desenvolvedor FullStack
 
-##### 💻 Curto muito desenvolver em NodeJS e JavaScript
+#### 💻 Curto muito desenvolver em NodeJS e JavaScript
 
 #### 🚀 Pretendo ser Desenvolvedor Node/React
 
