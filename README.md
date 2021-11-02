@@ -1,4 +1,4 @@
-## Olá! Eu sou o Iuri Matiello👋🏼, e atualmente estou na área da programação e tecnologia!!!
+### Hello World!!! Eu sou o Iuri👋🏼, sou estudante de Desenvovimento de Sistemas e estou iniciando na área da programação!!!
 
 #### 📁 Trabalho atualmente como Desenvolvedor FullStack
 
