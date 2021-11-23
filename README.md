@@ -6,7 +6,7 @@
 
 #### 🚀 Pretendo ser Desenvolvedor Node/React
 
-#### 📱 Atualmente estudando ReactJS, React Native, NodeJS e MySQL...
+#### 📱 Atualmente estudando ReactJS, React Native, NodeJS, MySQL, PHP e TypeScript...
 
 <div align="center">
   <a href="https://github.com/IuriDev071">
